@@ -1,0 +1,10 @@
+[
+  {
+    "package": "ggQC",
+    "oncran": true
+  },
+  {
+    "package": "MobileTrigger",
+    "oncran": true
+  }
+]
