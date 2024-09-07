@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "MobileTrigger"]
-	path = MobileTrigger
-	url = https://github.com/kenithgrey/mobiletrigger
 [submodule "ggQC"]
 	path = ggQC
 	url = https://github.com/kenithgrey/ggqc
